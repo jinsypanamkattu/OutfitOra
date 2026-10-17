@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice"><defs><g id="c"><ellipse cx="120" cy="120" rx="120" ry="52"/><circle cx="90" cy="82" r="58"/><circle cx="170" cy="70" r="72"/><circle cx="235" cy="108" r="50"/></g></defs>
+<g fill="#fff" fill-opacity=".5"><use href="#c" transform="translate(120 60) scale(1.9)"/><use href="#c" transform="translate(900 20) scale(2.3)" fill-opacity=".4"/></g>
+<g stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-linecap="round" fill="none">
+<g transform="translate(1250 600)"><path d="M0-70v140M-60-35l120 70M-60 35l120-70M0-70l-14 14M0-70l14 14M0 70l-14-14M0 70l14-14"/></g>
+<g transform="translate(300 650) scale(.7)"><path d="M0-70v140M-60-35l120 70M-60 35l120-70M0-70l-14 14M0-70l14 14M0 70l-14-14M0 70l14-14"/></g>
+<g transform="translate(750 700) scale(.5)"><path d="M0-70v140M-60-35l120 70M-60 35l120-70"/></g></g>
+<path d="M0 820q200-60 420-20t420-10t420 20t340-10V900H0z" fill="#fff" fill-opacity=".5"/></svg>
