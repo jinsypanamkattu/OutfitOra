@@ -38,8 +38,7 @@ def classify(title: str, location: str | None = None) -> dict:
         kind = "outdoor"
     elif _has(text, WORK):
         kind = "work"
-    elif dress in ("smart", "formal"):
-        kind = "social"
+    
     else:
         kind = "other"
     return {"kind": kind, "outdoor": outdoor, "dress": dress}

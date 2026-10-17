@@ -34,7 +34,7 @@ DRESS_SWAP = {"jacket": "wool_coat", "light_jacket": "blazer", "sneakers": "leat
 GENDER_DRESS_SWAP = {
     "male": {"tshirt": "dress_shirt", "long_sleeve": "dress_shirt"},
     "female": {"tshirt": "blouse", "long_sleeve": "blouse", "sneakers": "flats", "leather_shoes": "flats",
-               "boots": "ankle_boots", "leather_boots": "ankle_boots", "shorts": "sundress"},
+               "boots": "ankle_boots",  "shorts": "sundress"},
 }
 # Casual gender differences: women get tights under the warm-coat layers in freezing weather.
 GENDER_COLD_EXTRA = {"male": [], "female": ["tights"]}
